@@ -1,6 +1,5 @@
 # 🧙‍♂️💻 Narges Movahedian Nezhad 
 
-<!--
 **'Tech Tactician (SWE, Quant, Learner)'**
 
 Here are some ideas to get you started:
