@@ -28,6 +28,14 @@ Let’s create the future together.
 <img align="left" alt="R" width="30px" style="padding-right:10px;" src="https://workingnation.com/wp-content/uploads/2018/05/R_logo.svg_.png" />
 <br />
 
+#
+
+### 📊 Stats
+
+![Narges' GitHub stats](https://github-readme-stats.vercel.app/api?username=nargesmn100&show_icons=true&theme=gruvbox)
+
+#
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
