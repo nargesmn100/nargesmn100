@@ -1,7 +1,7 @@
-## Hi there 👋
+# 🧙‍♂️💻 Narges Movahedian Nezhad 
 
 <!--
-**nargesmn100/nargesmn100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**'Tech Tactician (SWE, Quant, Learner)'**
 
 Here are some ideas to get you started:
 
