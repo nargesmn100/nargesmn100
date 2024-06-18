@@ -2,6 +2,16 @@
 
 **`Tech Tactician (SWE, Quant, Learner)`**
 
+<!-- Social icons section -->
+<p align="center">
+  <a href="www.linkedin.com/in/narges-m"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
+
+### 🧰 Languages & Tools
+
+<img align="left" alt="Java" widt="30px" style="padding-right:10px;" src=>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
