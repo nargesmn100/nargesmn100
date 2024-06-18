@@ -26,6 +26,7 @@ Let’s create the future together.
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="R" width="30px" style="padding-right:10px;" src="https://workingnation.com/wp-content/uploads/2018/05/R_logo.svg_.png" />
+<img align="left" alt="Markdown" width="30px" style="padding-right:10px;" src="https://www.markdownguide.org/assets/images/markdown-guide-og.jpg" />
 <br />
 
 #
@@ -36,14 +37,9 @@ Let’s create the future together.
 
 #
 
-Here are some ideas to get you started:
+🔭 I’m currently building an app that uses AI to analyze photos of plants, diagnosing health issues and providing care tips, watering schedules, and much more!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#
+
+📫 How to reach me: narges.nezhad[at]mail.utoronto.ca 
+
