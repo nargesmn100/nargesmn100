@@ -38,5 +38,3 @@ Let’s create the future together.
 #
 
 🔭 I’m currently building an app that uses AI to analyze photos of plants, diagnosing health issues and providing care tips, watering schedules, and much more!
-
-📫 Feel free to contact me anywhere.
