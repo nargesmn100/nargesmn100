@@ -1,8 +1,8 @@
 # 💻 Narges Nezhad 
 
-**`Tech Tactician (SWE, Quant, Learner)`**
+**`Tech Tactician (Problem-Solver, Learner, Communicator)`**
 
-Interested in creating innovative solutions in various fields (software engineering, machine learning, web dev, datata analysis, and cybersecurity). When I’m not immersed in the digital world, you’ll find me on the sports field, channeling the same teamwork and strategy into athletic endeavors. This balance keeps my mind sharp and my ideas fresh, fueling my passion for developing groundbreaking applications. I’m on a perpetual quest for the next great idea to transform into code, seeking opportunities that challenge my skills and expand my horizons. I’m eager to bring my unique blend of technical expertise and dynamic energy to a team that values vision and innovation.
+Interested in creating innovative solutions in various fields (software engineering, machine learning, web dev, data analysis, cybersecurity, etc.). When I’m not immersed in the digital world, you’ll find me on the sports field, channeling the same teamwork and strategy into athletic endeavors. This balance keeps my mind sharp and my ideas fresh, fueling my passion for developing groundbreaking applications. I’m on a perpetual quest for the next great idea to transform into code, seeking opportunities that challenge my skills and expand my horizons. I’m eager to bring my unique blend of technical expertise and dynamic energy to a team that values vision and innovation.
 
 Feel free to contact me by clicking any of the icons below. Let’s create the future together.
 
