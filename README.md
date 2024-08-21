@@ -1,4 +1,4 @@
-# 🧙‍♂️💻 Narges Nezhad 
+# 💻 Narges Nezhad 💻
 
 **`Tech Tactician (SWE, Quant, Learner)`**
 
