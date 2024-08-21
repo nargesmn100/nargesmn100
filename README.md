@@ -23,6 +23,7 @@ Let’s create the future together.
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://www.kindpng.com/picc/m/403-4039227_c-language-logo-png-transparent-png.png" />
+<img align="left" alt="Assembly" width="30px" style="padding-right:10px;" src="https://hackr.io/tutorials/learn-assembly-language/logo/logo-assembly-language?ver=1557983975" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="R" width="30px" style="padding-right:10px;" src="https://workingnation.com/wp-content/uploads/2018/05/R_logo.svg_.png" />
