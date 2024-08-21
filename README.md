@@ -34,7 +34,7 @@ Let’s create the future together.
 ### 📊 Stats
 
 ![Narges' GitHub stats](https://github-readme-stats.vercel.app/api?username=nargesmn100&show_icons=true&theme=gruvbox)
-![Narges' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nargesmn100&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=20)
+![Narges' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nargesmn100&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=50)
 
 
 ![Narges' GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nargesmn100&theme=radical&hide_border=false)
