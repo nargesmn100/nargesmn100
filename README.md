@@ -10,8 +10,10 @@ Feel free to contact me by clicking any of the icons below. Let’s create the f
 <p align="center">
   <a href="https://www.linkedin.com/in/narges-movahedian-nezhad/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="narges.nezhad@mail.utoronto.ca"><img width="32px" alt="Email" title="Email" src="https://cdn.jim-nielsen.com/macos/1024/microsoft-outlook-2019-04-22.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="mailto:narges.nezhad@mail.utoronto.ca">
+  <img width="32px" alt="Email" title="Email" src="https://cdn.jim-nielsen.com/macos/1024/microsoft-outlook-2019-04-22.png"/>
+</a>
+&#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://stackoverflow.com/users/21972743/narges-m"><img width="32px" alt="Stack Overflow" title="Stack Overflow" src="https://cdn2.iconfinder.com/data/icons/social-icons-color/512/stackoverflow-1024.png"/></a>
 </p>
 
