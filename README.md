@@ -43,6 +43,9 @@ Feel free to contact me by clicking any of the icons below. Let’s create the f
 
 [![Profile Views](https://visitcount.itsvg.in/api?id=nargesmn100&label=Profile%20Views&color=5&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=nargesmn100&theme=apprentice&no-frame=false&no-bg=true&margin-w=4)
+
 
 
 #
