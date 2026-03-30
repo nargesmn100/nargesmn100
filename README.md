@@ -1,53 +1,92 @@
-# 💻 Narges Nezhad 
+<h1 align="center"> Hi, I'm Narges 🖥️🍁</h1>
 
-**`Tech Tactician (Problem-Solver, Learner, Communicator)`**
-
-Interested in creating innovative solutions in various fields (software engineering, machine learning, web dev, data analysis, cybersecurity, etc.). When I’m not immersed in the digital world, you’ll find me on the sports field, channeling the same teamwork and strategy into athletic endeavors. This balance keeps my mind sharp and my ideas fresh, fueling my passion for developing groundbreaking applications. I’m on a perpetual quest for the next great idea to transform into code, seeking opportunities that challenge my skills and expand my horizons. I’m eager to bring my unique blend of technical expertise and dynamic energy to a team that values vision and innovation.
-
-Feel free to contact me by clicking any of the icons below. Let’s create the future together.
-
-<!-- Social icons section -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/narges-m/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="mailto:nargesm004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Personal-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
   <a href="mailto:narges.nezhad@mail.utoronto.ca">
-  <img width="32px" alt="Email" title="Email" src="https://cdn.jim-nielsen.com/macos/1024/microsoft-outlook-2019-04-22.png"/>
-</a> &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://stackoverflow.com/users/21972743/narges-m"><img width="32px" alt="Stack Overflow" title="Stack Overflow" src="https://cdn2.iconfinder.com/data/icons/social-icons-color/512/stackoverflow-1024.png"/></a>
+    <img src="https://img.shields.io/badge/Email-UofT-002A5C?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/narges-m/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://stackoverflow.com/users/21972743/narges-m">
+    <img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <strong>🇨🇦 Computer Science @ UofT &nbsp; | &nbsp; 🤖 Aspiring ML Engineer &nbsp; | &nbsp; ⚡ Builder</strong>
+</p>
+
+<p align="center">
+  I’m a Canadian CS student exploring machine learning, data-driven systems, and intelligent applications.  
+  I enjoy turning ideas into real, usable products — especially where AI meets real-world impact.
 </p>
 
 ---
 
-### 🧰 Languages & Tools
+## 🚀 What I'm Working On
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://www.kindpng.com/picc/m/403-4039227_c-language-logo-png-transparent-png.png" />
-<img align="left" alt="Assembly" width="30px" style="padding-right:10px;" src="https://hackr.io/tutorials/learn-assembly-language/logo/logo-assembly-language?ver=1557983975" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img align="left" alt="R" width="30px" style="padding-right:10px;" src="https://workingnation.com/wp-content/uploads/2018/05/R_logo.svg_.png" />
-<img align="left" alt="Markdown" width="30px" style="padding-right:10px;" src="https://www.markdownguide.org/assets/images/markdown-guide-og.jpg" />
-<br />
+🔭 **AI Plant Health App**  
+An intelligent system that analyzes plant images to diagnose health issues, recommend care, and generate personalized watering schedules.
 
-#
+---
 
-### 📊 Stats
+## 📚 Currently Reading
 
-![Narges' GitHub stats](https://github-readme-stats.vercel.app/api?username=nargesmn100&show_icons=true&theme=gruvbox)
+📄 *Attention Is All You Need*  
+→ Exploring transformer architectures and how attention enables scalable sequence modeling.
 
-![Narges' GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nargesmn100&theme=radical&hide_border=false)
+---
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=nargesmn100&label=Profile%20Views&color=5&icon=0&pretty=false)](https://visitcount.itsvg.in)
+## 🧠 Interests
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nargesmn100&theme=apprentice&no-frame=false&no-bg=true&margin-w=4)
+- Machine Learning & Applied AI  
+- Data Analysis & Predictive Systems  
+- Full-Stack Development  
+- Building tools that *actually help people*
 
+---
 
+## 🛠 Tech Stack
 
-#
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
 
-🔭 I’m currently building an app that uses AI to analyze photos of plants, diagnosing health issues and providing care tips, watering schedules, and much more!
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nargesmn100&show_icons=true&theme=radical"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nargesmn100&theme=radical"/>
+</p>
+
+---
+
+## 🌱 A Bit More About Me
+
+Outside of tech, I stay active in sports — I bring that same mindset of discipline, teamwork, and strategy into how I build and learn.
+
+---
+
+## 🤝 Let’s Connect
+
+📫 Feel free to reach out — I’m always open to collaborating, learning, and building.
+
+- Personal: **nargesm004@gmail.com**  
+- University: **narges.nezhad@mail.utoronto.ca**
+
+---
+
+⭐ *Always building. Always learning. Always looking for the next idea to bring to life.*
