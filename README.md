@@ -24,13 +24,14 @@
   I enjoy turning ideas into real, usable products where AI meets real-world impact.
 </p>
 
----
-
-## 🚀 What I'm Working On
-
-🔭 Learning about **Large Language Models**.
-📄 Currently reading *Attention Is All You Need*  
-→ Understanding transformer architectures and attention mechanisms.
+<p align="center">
+  <a href="https://arxiv.org/abs/1706.03762">
+    <img src="https://img.shields.io/badge/Currently-Studying_Large_Language_Models-8A2BE2?style=for-the-badge"/>
+  </a>
+  <a href="https://arxiv.org/abs/1706.03762">
+    <img src="https://img.shields.io/badge/Reading-Attention_Is_All_You_Need-F59E0B?style=for-the-badge"/>
+  </a>
+</p>
 
 ---
 
