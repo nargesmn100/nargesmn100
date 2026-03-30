@@ -35,7 +35,7 @@
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -52,7 +52,4 @@
 
 
 
-📫 Feel free to reach out — I’m always open to collaborating, learning, and building.
-
-- **Personal:** nargesm004@gmail.com  
-- **University:** narges.nezhad@mail.utoronto.ca  
+Feel free to reach out, I’m open to collaborating, learning, and building.
