@@ -1,4 +1,6 @@
-<h1 align="center"> Hi, I'm Narges 🍁👩‍💻</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&weight=700&size=22&duration=2500&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Narges+🍁👩‍💻;Community+Builder;ML+Explorer;Aspiring+Marathon+Runner" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/narges-m/">
